@@ -1,0 +1,7 @@
+name = "profile"
+main = "src/index.ts"
+compatibility_date = "2024-06-05"
+
+[[kv_namespaces]]
+binding = "profiles"
+id = "3163618060b74713b81000b0130c177b"
